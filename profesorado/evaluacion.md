@@ -145,6 +145,7 @@ Basándose en los **lineamientos socio-formativos basados en evidencias**, el si
 	✓ RGPD   
 	✓ LOPDGDD   
 	✓ ISO 27001
+ 	✓ LSSI
 
 #### **2. Evidencias de conocimiento (Saber - 40%)**
 
