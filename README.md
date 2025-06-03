@@ -30,6 +30,7 @@ El proyecto simula un escenario empresarial real donde una PYME necesita impleme
 ├── 📄 README.md\
 ├── 📁 profesorado/\
 │ ├── 📄 evaluacion.md\
+│ ├── 📄 RAs-evaluar.xlsx\
 │ ├── 📄 guia_didactica.pdf\
 │ ├── 📄 metodologia.md\
 │ ├── 📄 planificacion_temporal.md\
