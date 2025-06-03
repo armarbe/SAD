@@ -35,7 +35,7 @@ El proyecto simula un escenario empresarial real donde una PYME necesita impleme
 │ ├── 📄 metodologia.md\
 │ ├── 📄 planificacion_temporal.md\
 │ └── 📄 recursos.md\
-── 📁 alumnado/\
+├── 📁 alumnado/\
 │ ├── 📄 dosier.pdf\
 │ ├── 📁 ejemplos/\
 │ │ └── 📄 dietpi-imager\
