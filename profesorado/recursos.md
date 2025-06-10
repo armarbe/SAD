@@ -13,6 +13,7 @@
 | **Cable Ethernet** | Cat 5e mínimo | Cat 6 | 1 por equipo |
 | **Carcasa** | Básica con ventilación | Con ventilador activo | 1 por equipo |
 | **Lector tarjetas SD** | USB básico | USB 3.0 integrado | 1 por aula |
+| **Coordinador Zigbee** | CH9102X | CP2102N | 1 por equipo |
 
 #### **Infraestructura del aula**
 | Recurso | Especificaciones | Observaciones |
@@ -21,6 +22,7 @@
 | **Router/Firewall** | Configurable, VLAN support | Para crear redes de prueba aisladas |
 | **Proyector/Pantalla** | Full HD mínimo | Para demostraciones grupales |
 | **Ordenadores estudiantes** | SSH client, navegador web | Para acceso remoto a las SBC |
+| **Dispositivos de domótica** | Compatibles con Zigbee/Tasmota | Para integrar en HomeAssistant |
 
 ### **Software base**
 
